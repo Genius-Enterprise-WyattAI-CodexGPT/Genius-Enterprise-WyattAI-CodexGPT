@@ -26,3 +26,4 @@ Founder-led product and business development at the intersection of hospitality,
 BarTrack Pro is in **private development and staging**, not an authorized production release. Additional products, official website links, and social profiles will be listed here only after their launch status and destinations are verified.
 
 ---
+
